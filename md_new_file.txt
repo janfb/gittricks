@@ -1,0 +1,13 @@
+stuff
+edits1
+this is the first message
+
+
+
+and this is the second message
+edits2
+
+these are some
+more edits
+in successive
+lines
